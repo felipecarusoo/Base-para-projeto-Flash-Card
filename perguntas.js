@@ -66,85 +66,86 @@ criaCartao(
 
 criaCartao(
     'Progamação',
-    '',
-    'Resposta 3'
+    'O que é uma variável?',
+    ' É um espaço na memória usado para armazenar um valor que pode ser alterado durante a execução de um programa.
+'
 )
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
-)
-
-criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+   'Historia',
+    ' O que foi a Revolução Francesa?',
+    'Foi uma revolução iniciada em 1789 que derrubou o Antigo Regime na França.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Histoia',
+    'O que foi a Revolução Industrial?',
+    'Foi um período de grandes transformações na produção, marcado pelo uso de máquinas e fábricas.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'fisica',
+    'O que é velocidade média?',
+    'É a distância percorrida dividida pelo tempo gasto.'
+)
+criaCartao(
+   'fisica',
+    'O que é aceleração?',
+    'É a variação da velocidade de um corpo ao longo do tempo.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'sociologia',
+    ' O que é sociedade?',
+    'É um conjunto de pessoas que convivem e compartilham normas, valores e relações.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'sociologia',
+    'O que é cultura?',
+    'É o conjunto de costumes, valores, conhecimentos e tradições de um grupo.'
+)
+criaCartao(
+   'educação fisica',
+    'O que é atividade física?',
+    'É qualquer movimento corporal que aumenta o gasto de energia.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'educação fisica',
+    ' Por que praticar exercícios é importante?',
+    'Porque ajuda a melhorar a saúde física e mental.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'fisica e tecnociencia',
+    'O que é energia?',
+    'É a capacidade de realizar trabalho ou provocar transformações.'
+)
+criaCartao(
+   'fisica e tecnociencia',
+    ' O que é força da gravidade?',
+    ' É a força de atração entre corpos que possuem massa, como a atração da Terra sobre os objetos.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'robotica',
+    'O que é um robô?',
+    'É uma máquina programável capaz de realizar tarefas de forma automática ou controlada.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'robotica',
+    ' O que é um sensor em um robô?',
+    'É um dispositivo que detecta informações do ambiente, como luz, temperatura, distância ou movimento.'
+)
+criaCartao(
+   'biologia',
+    'O que é DNA?',
+    'É a molécula que contém as informações genéticas dos seres vivos.'
+)
+
+criaCartao(
+    'biologia',
+    'O que é seleção natural?',
+    'É o processo em que características favoráveis aumentam a chance de sobrevivência e reprodução.'
 )
