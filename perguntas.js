@@ -127,6 +127,7 @@ criaCartao(
     ' É a força de atração entre corpos que possuem massa, como a atração da Terra sobre os objetos.'
 )
 
+
 criaCartao(
     'robotica',
     'O que é um robô?',
