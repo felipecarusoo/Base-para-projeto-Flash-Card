@@ -149,3 +149,8 @@ criaCartao(
     'O que é seleção natural?',
     'É o processo em que características favoráveis aumentam a chance de sobrevivência e reprodução.'
 )
+
+   'Disciplina',
+    'Pergunta',
+    'Resposta'
+)
